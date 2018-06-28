@@ -3,7 +3,7 @@ package chap01;
 public class Hello {
 
 	public static void main(String[] args) {
-		System.out.println("Hello");
+		System.out.println("Hello Jim");
 		Father son = new Son(); //声明为Father类,son1静态方法和Father类绑定  
         son.method();  
         son.staticMethod();  
